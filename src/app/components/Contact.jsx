@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <div className="flex flex-col flex-wrap py-8 px-4 gap-4 xl:gap-16 sm:py-16 xl:px-16">
-        <p className="text-white-primary text-justify italic font-serif text-base sm:text-2xl md:text-center">
+        <p className="text-white-primary text-justify italic font-light text-base sm:text-2xl md:text-center">
           Thanks for taking the time to explore my portfolio. Your visit is
           greatly appreciated!
         </p>
