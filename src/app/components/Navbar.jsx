@@ -27,7 +27,10 @@ const Navbar = () => {
           href={"/"}
           className="text-[#F0F0F0] text-2xl md:text-2xl font-semibold"
         >
-          FOLIO
+          Nilvia
+          <strong className="text-yellow-primary text-2xl md:text-3xl">
+            .
+          </strong>
         </Link>
         <div className="mobile menu relative block md:hidden pr-4 text-xl">
           <div className="absolute top-1/2 transform -translate-y-1/2">

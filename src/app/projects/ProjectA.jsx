@@ -7,7 +7,7 @@ const ProjectA = () => {
     <section id="a">
       <div className="md:px-6 overflow-hidden">
         <h2 className="text-[#FFCE63] font-semibold text-center text-lg mt-6 sm:text-2xl">
-          SQL
+          SQL | Power BI
         </h2>
         <h2 className="text-yellow-primary text-center mb-6 text-lg sm:text-2xl">
           Google Play App Development Analysis
@@ -83,7 +83,7 @@ const ProjectA = () => {
             opportunities
           </li>
           <li className="mb-2">
-            To stand out, a new app should aim for an average rating above 4.19
+            To stand out, a new app should aim for a rating above 4.19
           </li>
           <li>
             Categories like communication, social, video player, productivity,
