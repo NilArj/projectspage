@@ -12,7 +12,7 @@ const Contact = () => {
       <div className="flex flex-col flex-wrap py-8 px-4 gap-4 xl:gap-16 sm:py-16 xl:px-16">
         <p className="text-white-primary text-justify italic font-light text-base sm:text-2xl md:text-center">
           Thanks for taking the time to explore my portfolio. Your visit is
-          greatly appreciated!!
+          greatly appreciated!
         </p>
 
         <div className="flex text-3xl md:text-5xl justify-evenly sm:gap-4 sm:justify-center">
