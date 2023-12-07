@@ -8,7 +8,7 @@ const ProjectD = () => {
           Python
         </h2>
         <h2 className="text-yellow-primary text-center mb-6 text-lg sm:text-2xl">
-          Drag Show Analysis
+          Predicting {`Mexico's`} Economic Growth
         </h2>
         <p className="text-[#F0F0F0] italic font-light underline-offset-4 mb-6 text-base text-justify sm:text-xl">
           In a quest to forecast {`Mexico's`} economic growth, this data-driven

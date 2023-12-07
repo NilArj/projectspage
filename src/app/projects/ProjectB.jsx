@@ -33,7 +33,7 @@ const ProjectB = () => {
         </ul>
         <div className="text-center">
           <Image
-            src="/amazon2022.gif"
+            src="amazon2022.gif"
             alt="Amazon dashboard"
             layout="responsive"
             width={2}
