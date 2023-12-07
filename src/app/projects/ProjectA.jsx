@@ -36,7 +36,7 @@ const ProjectA = () => {
         </ul>
         <div className="text-center">
           <Image
-            src="/googleplay.png"
+            src="googleplay.png"
             alt="Google play dashboard"
             layout="responsive"
             width={5}
