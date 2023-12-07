@@ -89,7 +89,7 @@ const ProjectD = () => {
           Considerations: The dataset used for prediction is limited in size
         </p>
         <a
-          href="https://github.com/NilArj/drag_show"
+          href="https://github.com/NilArj/Predicting-Mexico-s-Economic-Growth"
           target="_blank"
           rel="noopener noreferrer"
           className="block mt-4 mx-auto text-[#F0F0F0] text-center text-sm border border-solid border-[#FFCE63] px-5 py-3 w-full font-semibold sm:w-fit md:text-lg hover:bg-gradient-to-br hover:to-[#FFCE63] hover:from-[#0A133D]"
