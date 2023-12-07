@@ -85,7 +85,7 @@ const ProjectD = () => {
             as per the Government of {`Mexico's`} official page.
           </li>
         </ul>
-        <p className="text-[#F0F0F0] italic font-light list-disc pl-8 mb-6 text-base text-justify sm:text-xl sm:pl-16">
+        <p className="text-[#F0F0F0] italic font-light list-disc mb-6 text-base text-justify sm:text-xl sm:pl-16">
           Considerations: The dataset used for prediction is limited in size
         </p>
         <a

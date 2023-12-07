@@ -108,7 +108,7 @@ const ProjectC = () => {
             transcends age
           </li>
         </ul>
-        <p className="text-[#F0F0F0] italic font-light list-disc pl-8 mb-6 text-base text-justify sm:text-xl sm:pl-16">
+        <p className="text-[#F0F0F0] italic font-light list-disc mb-6 text-base text-justify sm:text-xl sm:pl-16">
           Considerations: It is important to understand the intricate nature of
           competitions. These insights are shaped not just by raw data but by
           the nuanced judgments of a panel assessing a diverse range of talents,
